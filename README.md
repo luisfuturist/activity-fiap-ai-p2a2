@@ -106,11 +106,11 @@ Para instalar e executar a aplicação, siga estas etapas:
 
 1. **Clone o repositório**:
     ```sh
-    git clone https://github.com/ludimilavitorino24/activity-fiap-ai-p2-a2.git
+    git clone https://github.com/luisfuturist/activity-fiap-ai-p2a2.git
     ```
 2. **Navegue até o diretório do projeto**:
     ```sh
-    cd activity-fiap-ai-p2-a2
+    cd activity-fiap-ai-p2a2
     ```
 3. **(Opcional) Crie e ative um ambiente virtual**:
     ```sh
